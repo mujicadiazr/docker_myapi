@@ -1,0 +1,14 @@
+C:\Code\Docker\myapi\bin\Debug\netcoreapp2.2\myapi.deps.json
+C:\Code\Docker\myapi\bin\Debug\netcoreapp2.2\myapi.runtimeconfig.json
+C:\Code\Docker\myapi\bin\Debug\netcoreapp2.2\myapi.runtimeconfig.dev.json
+C:\Code\Docker\myapi\bin\Debug\netcoreapp2.2\myapi.dll
+C:\Code\Docker\myapi\bin\Debug\netcoreapp2.2\myapi.pdb
+C:\Code\Docker\myapi\obj\Debug\netcoreapp2.2\myapi.csprojAssemblyReference.cache
+C:\Code\Docker\myapi\obj\Debug\netcoreapp2.2\myapi.csproj.CoreCompileInputs.cache
+C:\Code\Docker\myapi\obj\Debug\netcoreapp2.2\myapi.RazorAssemblyInfo.cache
+C:\Code\Docker\myapi\obj\Debug\netcoreapp2.2\myapi.RazorAssemblyInfo.cs
+C:\Code\Docker\myapi\obj\Debug\netcoreapp2.2\myapi.AssemblyInfoInputs.cache
+C:\Code\Docker\myapi\obj\Debug\netcoreapp2.2\myapi.AssemblyInfo.cs
+C:\Code\Docker\myapi\obj\Debug\netcoreapp2.2\myapi.RazorTargetAssemblyInfo.cache
+C:\Code\Docker\myapi\obj\Debug\netcoreapp2.2\myapi.dll
+C:\Code\Docker\myapi\obj\Debug\netcoreapp2.2\myapi.pdb
